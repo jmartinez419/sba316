@@ -9,10 +9,18 @@ img{
     justify-content: space-evenly;
     margin: 5% 10% 10% 10%;
 }
+
+.spinButton:click{
+    animation-delay: 1500ms;
+
+}
+
 .galleryrow2{
     display: flex;
     justify-content: space-evenly;
     margin: 5% 10% 10% 10%;
+
+    
 }
 body{
     background-color: rgb(49, 60, 115);
